@@ -21,6 +21,8 @@ Und hier könnt ihr selber [Platinen bestellen](https://pcbway.com/g/Bm3OZF)
 
 
 
+
+## Material
 Benötigte Bauteile 4-fach:
 - 4x NE555
 - 4x Keramikkondensator 0,1uF (104)
@@ -29,13 +31,22 @@ Benötigte Bauteile 4-fach:
 - 4x IRFZ44N
 
 
+Benötigte Bauteile Hauptplatine & Tasterplatine:
+- 4x Taster 6x6mm
+- 4x Widerstände 1kOhm
+- 1x Arduino Nano
+- 1x Max485
+- 1x IC-Sockel, 8-polig
+- 2x Buchsenleiste, gerade, 15pol, 2,54mm
+
+
 
 <img width="3000" height="2000" alt="E-Dimmer 4-fach top" src="https://github.com/user-attachments/assets/d7927e29-2f04-4279-ab4e-cfa954109064" />
 
 
 
 ## Schaltplan
-
+Folgt...
 
 ## Code
 
