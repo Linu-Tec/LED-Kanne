@@ -35,7 +35,17 @@ Benötigte Bauteile 4-fach:
 
 
 ## Schaltplan
-<img width="9031" height="5559" alt="1 fach schema" src="https://github.com/user-attachments/assets/a86546a6-0bc2-4b4b-83a6-3cf8e54b22ed" />
 
 
 ## Code
+
+### Test Programm
+[Test vom 4fach Dimmer](https://github.com/Linu-Tec/LED-Kanne/blob/main/LED-Dimmer-4-fach-test.ino)
+
+### Läuft sicher
+[LED-Kanne DMX](https://github.com/Linu-Tec/LED-Kanne/blob/main/DMX-LED-Kanne.ino)
+
+
+### Noch in der Entwicklung
+[LED-Kanne](https://github.com/Linu-Tec/LED-Kanne/tree/main/DMX-LED-Kanne)
+
