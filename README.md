@@ -17,7 +17,8 @@ Neue Version von den Platinen V2: [Hauptplatine](https://www.pcbway.com/project/
 Und hier könnt ihr selber [Platinen bestellen](https://pcbway.com/g/Bm3OZF)
 
 
-<img width="1690" height="511" alt="image" src="https://github.com/user-attachments/assets/ba0a3dfa-d900-4831-9cd0-213f68692c23" />
+<img width="1690" height="511" alt="PCBWay-logo" src="https://github.com/user-attachments/assets/011ced5b-09b5-4ca0-98e6-545e4c3d6175" />
+
 
 
 
